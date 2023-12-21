@@ -1,0 +1,15 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "formulario": "sass source/main.scss main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "formulario": "^1.0.0"
+  }
+}
